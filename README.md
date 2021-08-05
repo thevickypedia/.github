@@ -24,6 +24,10 @@ In a nutshell, I am a Python Developer and AWS enthusiast who builds personalize
 
 <!-- <img src="https://user-images.githubusercontent.com/38729644/88803242-cb449300-d171-11ea-9dbd-ba42e806fa8c.png" width="400" height="150" alt="git logo"> -->
 
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=thevickypedia&row=1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=thevickypedia&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 <a href="https://vigneshrao.com/projects">
 <img align="left" src="https://github-readme-stats.vercel.app/api/?username=thevickypedia&count_private=true&show_icons=true&theme=dark" width="500" alt="git stats">
 </a>
