@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I am Vignesh 👋🏻 👨🏻‍💻
+<!-- ![Image](https://user-images.githubusercontent.com/38729644/208155842-b2d1fe4f-8b06-4633-a8ad-6892f3f24f52.png) -->
+<!-- ![Image](https://user-images.githubusercontent.com/38729644/208155920-889abfb1-78b6-4327-a053-15f3630f5bb5.png) -->
+![Image](https://user-images.githubusercontent.com/38729644/208155905-f2d3e7f2-a545-4d94-a38c-6685f6bb50f8.png)
+
+# Hi, I am Vignesh
 
 In a nutshell, I am a software developer and cloud enthusiast who builds personalized applications and monitoring tools. I mostly create applications and APIs using multiple high level languages to acquire knowledge and be heuristic. My major interests are around home automation, IOT and Natural Language Processing.
 
