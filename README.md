@@ -22,6 +22,12 @@ Here are some ideas to get you started:
 
 In a nutshell, I am a software developer and cloud enthusiast who builds personalized applications and monitoring tools. I mostly create applications and APIs using multiple high level languages to acquire knowledge and be heuristic. My major interests are around home automation, IOT and Natural Language Processing.
 
+## [Open Source Contributions](https://opensource.guide/how-to-contribute/)
+- Create price change alerts for any NASDAQ ticker: [vigneshrao.com/stock-monitor](https://vigneshrao.com/stock-monitor)
+  - **PS:** The endpoint connects to [Jarvis](https://github.com/thevickypedia/Jarvis) running on localhost tunneled using reverse proxy. This makes it rely on client's [network connectivity](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) and [Jarvis' availability](https://jarvis.vigneshrao.com/).
+- Encode and decode JSON Web Tokens: [vigneshrao.com/jwt](https://vigneshrao.com/jwt)
+  - **PS:** The endpoint uses obfuscated JavaScript to encode and decode JWT. Please refer the [source](https://github.com/thevickypedia/jwt) for more information.
+
 ## Hungry for more?
 - Take a look at my <a href="https://thevickypedia.com/"> Portfolio</a> 👨🏻‍💻
 - Connect with me on <a href="https://www.linkedin.com/in/vignesh-sivanandha-rao/">LinkedIn</a> 💼
