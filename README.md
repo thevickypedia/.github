@@ -1,18 +1,3 @@
-<!--### Hi there 👋
-
-**thevickypedia/thevickypedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <!-- ![Image](https://user-images.githubusercontent.com/38729644/208155842-b2d1fe4f-8b06-4633-a8ad-6892f3f24f52.png) -->
 <!-- ![Image](https://user-images.githubusercontent.com/38729644/208155920-889abfb1-78b6-4327-a053-15f3630f5bb5.png) -->
@@ -33,6 +18,97 @@ In a nutshell, I am a software developer and cloud enthusiast who builds persona
 ## Hungry for more?
 - Take a look at my <a href="https://vigneshrao.com/"> Portfolio</a> 👨🏻‍💻
 - Connect with me on <a href="https://www.linkedin.com/in/vignesh-sivanandha-rao/">LinkedIn</a> 💼
+
+## Programming Languages
+<p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apple_Script-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=processingfoundation&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>
+</p>
+
+## Sham Languages
+<p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Shell-20232A?style=for-the-badge&logo=powershell&logoColor=white"/>
+</p>
+
+## Machine Learning/Deep Learning
+<p>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
+    <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+    <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+    <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+    <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
+
+## Frameworks
+<p>
+    <img src="https://img.shields.io/badge/FastAPI-%2300C4CC.svg?style=for-the-badge&logo=fastapi&logoColor=white">
+    <img src="https://img.shields.io/badge/PyTest-0A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white">
+    <img src="https://img.shields.io/badge/Django-593D88?style=for-the-badge&logo=django&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Bootstrap-593D88.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img src="https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
+    <img src="https://img.shields.io/badge/Apache_Tomcat-4053D6.svg?style=for-the-badge&logo=apachetomcat&logoColor=white">
+<!--    <img src="https://img.shields.io/badge/AIOHTTP-2C5BB4.svg?style=for-the-badge&logo=aiohttp&logoColor=white">-->
+<!--    <img src="https://img.shields.io/badge/Open%20Source-%23F05032.svg?style=for-the-badge&logo=open-source-initiative&logoColor=white">-->
+</p>
+
+## Cloud Concepts
+<h3 align="center"><img
+        src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white"></h3>
+<p>
+    <img src="https://img.shields.io/badge/Lambda-FF9900.svg?style=for-the-badge&logo=awslambda&logoColor=white">
+    <img src="https://img.shields.io/badge/DynamoDB-4053D6.svg?style=for-the-badge&logo=amazondynamodb&logoColor=white">
+    <img src="https://img.shields.io/badge/S3-569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white">
+    <img src="https://img.shields.io/badge/EC2-FF6F00.svg?style=for-the-badge&logo=amazonec2&logoColor=white">
+    <img src="https://img.shields.io/badge/SQS-3775A9.svg?style=for-the-badge&logo=amazonsqs&logoColor=white">
+    <img src="https://img.shields.io/badge/ECS-FF6F00.svg?style=for-the-badge&logo=amazonecs&logoColor=white">
+    <img src="https://img.shields.io/badge/RDS-527FFF.svg?style=for-the-badge&logo=amazonrds&logoColor=white">
+    <img src="https://img.shields.io/badge/CloudWatch-CA4245.svg?style=for-the-badge&logo=amazoncloudwatch&logoColor=white">
+    <img src="https://img.shields.io/badge/APIGateway-44A833.svg?style=for-the-badge&logo=amazonapigateway&logoColor=white">
+    <img src="https://img.shields.io/badge/Fargate-FF9900.svg?style=for-the-badge&logo=awsfargate&logoColor=white">
+</p>
+
+## IDE/Platforms
+<p>
+    <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spyder_IDE-FF0000?style=for-the-badge&logo=spyderide&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+    <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+</p>
+
+## CI/CD
+<p>
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white">
+    <img src="https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spinnaker-139BB4.svg?style=for-the-badge&logo=spinnaker&logoColor=white">
+</p>
+
+## Container Orchestration
+<p>
+    <img src="https://img.shields.io/badge/Docker-%23404d59.svg?style=for-the-badge&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Kubernetes-%23007ACC.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
+</p>
+
+## Source Control
+<p>
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/Pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white"/>
+</p>
+
+---
 
 <!-- <img src="https://user-images.githubusercontent.com/38729644/88803242-cb449300-d171-11ea-9dbd-ba42e806fa8c.png" width="400" height="150" alt="git logo"> -->
 
