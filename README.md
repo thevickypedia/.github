@@ -20,6 +20,8 @@ In a nutshell, I am a software developer and cloud enthusiast who builds persona
 - Take a look at my <a href="https://vigneshrao.com/"> Portfolio</a> 👨🏻‍💻
 - Connect with me on <a href="https://www.linkedin.com/in/vignesh-sivanandha-rao/">LinkedIn</a> 💼
 
+<!--    <img src="https://img.shields.io/badge/Open_Source-%23F05032.svg?style=for-the-badge&logo=open-source-initiative&logoColor=white">-->
+
 ## Programming Languages
 <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -48,25 +50,46 @@ In a nutshell, I am a software developer and cloud enthusiast who builds persona
     <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
     <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
     <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+    <img src="https://img.shields.io/badge/IBM-Watson-BE95FF?style=for-the-badge&logo=ibmwatson&logoColor=white"/>
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
 ## Frameworks
+#### Dev Frameworks
 <p>
     <img src="https://img.shields.io/badge/FastAPI-%2300C4CC.svg?style=for-the-badge&logo=fastapi&logoColor=white">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
     <img src="https://img.shields.io/badge/PyTest-0A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white">
-    <img src="https://img.shields.io/badge/Django-593D88?style=for-the-badge&logo=django&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+    <!--<img src="https://img.shields.io/badge/Django-%23430098?style=for-the-badge&logo=django&logoColor=white"/>-->
     <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/Bootstrap-593D88.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-    <img src="https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
     <img src="https://img.shields.io/badge/Apache_Tomcat-4053D6.svg?style=for-the-badge&logo=apachetomcat&logoColor=white">
-<!--    <img src="https://img.shields.io/badge/AIOHTTP-2C5BB4.svg?style=for-the-badge&logo=aiohttp&logoColor=white">-->
-<!--    <img src="https://img.shields.io/badge/Open%20Source-%23F05032.svg?style=for-the-badge&logo=open-source-initiative&logoColor=white">-->
+    <img src="https://img.shields.io/badge/AIOHTTP-2C5BB4.svg?style=for-the-badge&logo=aiohttp&logoColor=white">
+    <img src="https://img.shields.io/badge/OpenVPN-EA7E20.svg?style=for-the-badge&logo=OpenVPN&logoColor=white">
+    <img src="https://img.shields.io/badge/Palo_Alto-83DA77.svg?style=for-the-badge&logo=paloaltosoftware&logoColor=white">
+    <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+    <img src="https://img.shields.io/badge/Azure_DevOps-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white">
+    <img src="https://img.shields.io/badge/Helm-0F1689.svg?style=for-the-badge&logo=helm&logoColor=white">
+    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Pre-Commit-FAB040?style=for-the-badge&logo=pre-commit&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Roku-662D91?style=for-the-badge&logo=roku&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white"/>
+</p>
+
+#### Monitoring Web Frameworks
+<p>
+    <img src="https://img.shields.io/badge/Splunk-000000.svg?style=for-the-badge&logo=splunk&logoColor=white">
+    <img src="https://img.shields.io/badge/NewRelic-008C99.svg?style=for-the-badge&logo=newrelic&logoColor=white">
+    <img src="https://img.shields.io/badge/Datadog-632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white">
+    <img src="https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
 </p>
 
 ## Cloud Concepts
-<h3 align="center"><img
-        src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white"></h3>
+<h3 align="center"><img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white"></h3>
 <p>
     <img src="https://img.shields.io/badge/Lambda-FF9900.svg?style=for-the-badge&logo=awslambda&logoColor=white">
     <img src="https://img.shields.io/badge/DynamoDB-4053D6.svg?style=for-the-badge&logo=amazondynamodb&logoColor=white">
@@ -76,7 +99,7 @@ In a nutshell, I am a software developer and cloud enthusiast who builds persona
     <img src="https://img.shields.io/badge/ECS-FF6F00.svg?style=for-the-badge&logo=amazonecs&logoColor=white">
     <img src="https://img.shields.io/badge/RDS-527FFF.svg?style=for-the-badge&logo=amazonrds&logoColor=white">
     <img src="https://img.shields.io/badge/CloudWatch-CA4245.svg?style=for-the-badge&logo=amazoncloudwatch&logoColor=white">
-    <img src="https://img.shields.io/badge/APIGateway-44A833.svg?style=for-the-badge&logo=amazonapigateway&logoColor=white">
+    <img src="https://img.shields.io/badge/API-Gateway-44A833.svg?style=for-the-badge&logo=amazonapigateway&logoColor=white">
     <img src="https://img.shields.io/badge/Fargate-FF9900.svg?style=for-the-badge&logo=awsfargate&logoColor=white">
 </p>
 
@@ -84,7 +107,7 @@ In a nutshell, I am a software developer and cloud enthusiast who builds persona
 <p>
     <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Spyder_IDE-FF0000?style=for-the-badge&logo=spyderide&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spyder-IDE-FF0000?style=for-the-badge&logo=spyderide&logoColor=white"/>
     <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
     <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
     <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
@@ -95,6 +118,7 @@ In a nutshell, I am a software developer and cloud enthusiast who builds persona
     <img src="https://img.shields.io/badge/GitHub_Actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white">
     <img src="https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spinnaker-139BB4.svg?style=for-the-badge&logo=spinnaker&logoColor=white">
+    <img src="https://img.shields.io/badge/Bamboo-0052CC.svg?style=for-the-badge&logo=bamboo&logoColor=white">
 </p>
 
 ## Container Orchestration
@@ -107,6 +131,7 @@ In a nutshell, I am a software developer and cloud enthusiast who builds persona
 <p>
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/Pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </p>
 
 ---
