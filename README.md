@@ -142,9 +142,9 @@ In a nutshell, I am a software developer and cloud enthusiast who builds persona
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=thevickypedia&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-<a href="https://vigneshrao.com/projects">
+<!-- <a href="https://vigneshrao.com/projects">
 <img align="left" src="https://github-readme-stats.vercel.app/api/?username=thevickypedia&count_private=true&show_icons=true&theme=dark" width="500" alt="git stats">
 </a>
 <a href="https://vigneshrao.com/projects">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevickypedia&count_private=true&langs_count=10&hide=HTML,CSS,CMake,SCSS,Makefile,Batchfile,Less&layout=compact&theme=dark" width="400" alt="lang stats">
-</a>
+</a> -->
