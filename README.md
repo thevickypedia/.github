@@ -21,17 +21,17 @@ In a nutshell, I am a software developer and cloud enthusiast who builds persona
 - Take a look at my <a href="https://vigneshrao.com/"> Portfolio</a> 👨🏻‍💻
 - Connect with me on <a href="https://www.linkedin.com/in/vignesh-sivanandha-rao/">LinkedIn</a> 💼
 
-<!--    <img src="https://img.shields.io/badge/Open_Source-%23F05032.svg?style=for-the-badge&logo=open-source-initiative&logoColor=white">-->
+[//]: # (<img src="https://img.shields.io/badge/Open_Source-%23F05032.svg?style=for-the-badge&logo=open-source-initiative&logoColor=white">)
 
 ## Programming Languages
 <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Apple_Script-000000?style=for-the-badge&logo=apple&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=processingfoundation&logoColor=white"/>
     <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apple_Script-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 </p>
 
 ## Sham Languages
@@ -59,11 +59,11 @@ In a nutshell, I am a software developer and cloud enthusiast who builds persona
 #### Dev Frameworks
 <p>
     <img src="https://img.shields.io/badge/FastAPI-%2300C4CC.svg?style=for-the-badge&logo=fastapi&logoColor=white">
+    <img src="https://img.shields.io/badge/spring-%2343853D.svg?style=for-the-badge&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
     <img src="https://img.shields.io/badge/PyTest-0A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white">
-    <!--<img src="https://img.shields.io/badge/Django-%23430098?style=for-the-badge&logo=django&logoColor=white"/>-->
-    <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/node.js-%23430098?style=for-the-badge&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Bootstrap-593D88.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
     <img src="https://img.shields.io/badge/Apache_Tomcat-4053D6.svg?style=for-the-badge&logo=apachetomcat&logoColor=white">
@@ -108,18 +108,20 @@ In a nutshell, I am a software developer and cloud enthusiast who builds persona
 <p>
     <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Spyder-IDE-FF0000?style=for-the-badge&logo=spyderide&logoColor=white"/>
     <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
     <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spyder-IDE-FF0000?style=for-the-badge&logo=spyderide&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Rust-Rover-F37626?style=for-the-badge&logo=rust&logoColor=white"/>
 </p>
 
 ## CI/CD
 <p>
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-Actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white">
     <img src="https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spinnaker-139BB4.svg?style=for-the-badge&logo=spinnaker&logoColor=white">
     <img src="https://img.shields.io/badge/Bamboo-0052CC.svg?style=for-the-badge&logo=bamboo&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS-CodeBuild-F37626.svg?style=for-the-badge&logo=amazon&logoColor=white">
 </p>
 
 ## Container Orchestration
