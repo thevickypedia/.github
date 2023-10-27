@@ -26,7 +26,8 @@ In a nutshell, I am a software developer and cloud enthusiast who builds persona
 ## Programming Languages
 <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=orange"/>
     <img src="https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=processingfoundation&logoColor=white"/>
     <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -145,9 +146,9 @@ In a nutshell, I am a software developer and cloud enthusiast who builds persona
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=thevickypedia&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-<!-- <a href="https://vigneshrao.com/projects">
-<img align="left" src="https://github-readme-stats.vercel.app/api/?username=thevickypedia&count_private=true&show_icons=true&theme=dark" width="500" alt="git stats">
+<a href="https://vigneshrao.com/projects">
+<img src="https://github-readme-stats.vercel.app/api/?username=thevickypedia&count_private=true&show_icons=true&theme=dark" width="500">
 </a>
 <a href="https://vigneshrao.com/projects">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevickypedia&count_private=true&langs_count=10&hide=HTML,CSS,CMake,SCSS,Makefile,Batchfile,Less&layout=compact&theme=dark" width="400" alt="lang stats">
-</a> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevickypedia&count_private=true&langs_count=50&hide=SCSS&layout=donut-vertical&theme=dark" width="400">
+</a>
