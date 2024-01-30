@@ -12,7 +12,7 @@ In a nutshell, I am a software developer and cloud enthusiast who builds persona
 - Create price change alerts for any NASDAQ ticker: [vigneshrao.com/stock-monitor](https://vigneshrao.com/stock-monitor)
 - Analyze a stock using various [algorithms that uses multiple strategies](https://github.com/thevickypedia/trading-algorithm) to generate buy/sell/hold signals: [vigneshrao.com/stock-analysis](https://vigneshrao.com/stock-analysis)
   - **PS:** The endpoints connect to [Jarvis](https://github.com/thevickypedia/Jarvis) running on localhost tunneled using reverse proxy.
-  - This makes it rely on client's network firewall rules for [egress connections](https://ngrok.com/docs/guides/running-behind-firewalls) and [Jarvis' availability](https://health.jarvis.services/).
+  - This makes it rely on client's network firewall rules for [egress connections](https://ngrok.com/docs/guides/running-behind-firewalls) and [Jarvis' availability](https://jarvis-health.vigneshrao.com/).
 - Encode and decode JSON Web Tokens: [vigneshrao.com/jwt](https://vigneshrao.com/jwt)
   - **PS:** The endpoint uses obfuscated JavaScript to encode and decode JWT.
   - Please refer the [source](https://github.com/thevickypedia/jwt) for more information.
