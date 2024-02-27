@@ -150,5 +150,5 @@ In a nutshell, I am a software developer and cloud enthusiast who builds persona
 <img src="https://github-readme-stats.vercel.app/api/?username=thevickypedia&count_private=true&show_icons=true&theme=dark" width="500">
 </a>
 <a href="https://vigneshrao.com/projects">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevickypedia&count_private=true&langs_count=50&hide=Makefile,Batchfile,Less,Ruby,CMake,CSS,SCSS&layout=donut-vertical&theme=dark" width="400">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevickypedia&count_private=true&langs_count=50&hide=Makefile,Batchfile,Less,Ruby,CMake,HTML,CSS,JavaScript,SCSS&layout=donut-vertical&theme=dark" width="400">
 </a>
