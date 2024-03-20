@@ -59,6 +59,7 @@ In a nutshell, I am a software developer and cloud enthusiast who builds persona
 ## Frameworks
 #### Dev Frameworks
 <p>
+    <img src="https://img.shields.io/badge/Actix-000?style=for-the-badge&logo=actix&logoColor=white">
     <img src="https://img.shields.io/badge/FastAPI-%2300C4CC.svg?style=for-the-badge&logo=fastapi&logoColor=white">
     <img src="https://img.shields.io/badge/spring-%2343853D.svg?style=for-the-badge&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -80,6 +81,8 @@ In a nutshell, I am a software developer and cloud enthusiast who builds persona
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
     <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white"/>
     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=fff"/>
+    <img src="https://img.shields.io/badge/.ENV-ECD53F?style=for-the-badge&logo=dotenv&logoColor=000"/>
 </p>
 
 #### Monitoring Web Frameworks
