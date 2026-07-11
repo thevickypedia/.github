@@ -1,5 +1,3 @@
-<img src="https://github-readme-stats-vignesh-raos-projects.vercel.app/api/top-langs/?username=dormant-user&count_private=true&langs_count=50&layout=compact&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&size_weight=0.5&count_weight=0.5&exclude_repo=gists,portfolio,kalihikai_s3,open-source&hide=HTML,Jupyter%20Notebook,CSS,CMake,Batchfile,Makefile&cache_seconds=86400" width="400">
+<img src="https://raw.githubusercontent.com/thevickypedia/github-stats/stats/images/top-langs-thevickypedia.svg" width="400">
 
-<!--
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thevickypedia)](https://github.com/anuraghazra/github-readme-stats)
--->
+<img src="https://raw.githubusercontent.com/thevickypedia/github-stats/stats/images/stats-thevickypedia.svg" width="400">
